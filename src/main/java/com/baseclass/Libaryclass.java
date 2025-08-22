@@ -92,7 +92,7 @@ public class Libaryclass {
 		// generally more robust
 		// than a hardcoded absolute-style path.
 		FileInputStream input = new FileInputStream(
-				"D:/flipcartendtoendseleniumautomationbddcucumber/src/test/resources/config.Properties/config.property");
+				"src/test/resources/config.Properties/config.property");
 
 		// Initialize the Properties object.
 		Prop = new Properties();
